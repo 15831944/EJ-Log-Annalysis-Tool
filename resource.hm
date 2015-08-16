@@ -1,0 +1,4 @@
+// Microsoft Developer Studio generated Help ID include file.
+// Used by LogAnalysisTool.rc
+//
+#define HIDC_State                      0x80660401    // IDD_LOGANALYSISTOOL_DIALOG
